@@ -1,10 +1,3 @@
-]<<" ";
-		
-
-	return 0;
-}
-
-
 /*
 Antonio has an array A consisting of N integers.
 
