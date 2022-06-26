@@ -1,3 +1,6 @@
+/*Given two linked lists that represent two large positive numbers. The task is to subtract the given two numbers represented by the linked list. 
+Subtract the smaller from the larger one.*/
+	
 #include<bits/stdc++.h>
 using namespace std;
 
